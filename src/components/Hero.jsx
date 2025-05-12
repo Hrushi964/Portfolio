@@ -61,7 +61,7 @@ export default function Hero() {
       </div>
 
       {/* Main Content Area */}
-      <div className="relative flex flex-col md:flex-row items-center justify-center gap-12 lg:gap-16 max-w-6xl w-full z-10 border border-red-500">
+      <div className="relative flex flex-col md:flex-row items-center justify-center gap-12 lg:gap-16 max-w-6xl w-full z-10">
 
         {/* Profile Image with Tilt */}
         <Tilt
@@ -91,7 +91,7 @@ export default function Hero() {
         </Tilt>
 
         {/* Hero Text Content */}
-        <div className="flex flex-col items-center md:items-start text-center md:text-left max-w-lg border border-yellow-500">
+        <div className="flex flex-col items-center md:items-start text-center md:text-left max-w-lg">
 
           {/* Main Heading */}
           <motion.h1
