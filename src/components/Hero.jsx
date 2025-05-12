@@ -118,7 +118,7 @@ export default function Hero() {
 
           {/* CTA Button - Resume */}
           <motion.a
-            href="/resume-Jupalli Hrushikesh.pdf"
+            href="/Resume-Jupalli Hrushikesh.pdf"
             download="Resume-Jupalli Hrushikesh.pdf"
             className="relative inline-flex items-center justify-center px-7 py-3 rounded-lg font-semibold text-white bg-transparent border-2 border-cyan-400 overflow-hidden group transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:ring-offset-2 focus:ring-offset-black"
             initial={{ opacity: 0, y: 20 }}
