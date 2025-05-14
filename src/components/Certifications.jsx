@@ -15,7 +15,7 @@ const certifications = [
   {
     name: 'Python',
     organization:'Cisco', 
-    image: '/cisco.webp',
+    image: '/cisco.png',
     duration:'20-04-2023 to 19-06-2024',
     certificate:'https://drive.google.com/file/d/1LvPp0fmiYxoN8D5jO0FV9v4dXyAi8xp1/view?usp=drive_link'
   },
